@@ -1,0 +1,10 @@
+{
+    "name": "feedbackview",
+    "version": "1.0.0",
+    "description": "A Vue.js project",
+    "author": "tenghuan",
+    "private": true,
+    "scripts": {
+        "start": "nodemon ./app.js"
+    }
+}
